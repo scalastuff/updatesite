@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/esbt_0.10.0.jar" id="esbt" version="0.10.0"/>
+</site>
