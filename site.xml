@@ -3,5 +3,5 @@
    <description name="Scalastuff Update Site" url="https://raw.github.com/scalastuff/updatesite/master">
       Scalastuff Update Site
    </description>
-   <feature url="features/esbt_0.10.3.jar" id="esbt" version="0.10.3"/>
+   <feature url="features/esbt_0.10.4.jar" id="esbt" version="0.10.4"/>
 </site>
